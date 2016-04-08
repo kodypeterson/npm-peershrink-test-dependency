@@ -75,5 +75,5 @@
   },
   "devDependencies": {
     "mockery": "^1.4.0"
-  },
+  }
 }
