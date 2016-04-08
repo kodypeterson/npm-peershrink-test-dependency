@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/kodypeterson/npm-peershrink-test-dependency",
   "dependencies": {
-    "jit-grunt": "~0.10",
+    "jit-grunt": "~0.8",
     "grunt": "^0.4.5"
   }
 }
